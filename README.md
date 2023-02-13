@@ -1,3 +1,3 @@
 # Via Cep API
 
-<img src="./img/screen">
+<img src="./img/screen.png">
