@@ -1,0 +1,52 @@
+.html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+body {
+    width: 100%;
+    height: 700px;
+    margin: 0px;
+    background-image: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.informacoes {
+    display: inline-block;
+    text-align: center;
+}
+
+.containerChild {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+h1 {
+    font-size: 60px;
+}
+.box1 {
+    margin-bottom: 30px;
+    text-align: center
+}
+.container {
+    border: solid 1px black;
+    width: 400px;
+    height: 600px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.2);
+    background-color: bisque;
+}   
+#botao {
+    margin: 10px;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+input {
+    text-align: center;
+}
